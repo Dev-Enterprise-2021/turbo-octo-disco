@@ -72,7 +72,7 @@
    <repository>
      <id>github</id>
      <name>GitHub poojadpatkar Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/DevTools-github-2020/literate-doodle</url>
+     <url>https://maven.pkg.github.com/Dev-Enterprise-2021/turbo-octo-disco</url>
    </repository>
   </distributionManagement>
 
